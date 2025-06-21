@@ -7,7 +7,7 @@ import { Route,Routes } from 'react-router-dom'
 import Home from './Pages/Home'
 
 import Services from './Pages/Services'
-import Navbar from './Components/Navbar'
+import Navbar from './components/Navbar'
 import State from './hooks/State'
 import Form from './hooks/Form'
 import Effect from './hooks/Effect'
